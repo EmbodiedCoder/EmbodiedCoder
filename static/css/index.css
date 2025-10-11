@@ -99,6 +99,11 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
+.hero.is-small-hero .hero-body {
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
 .hero-body {
   padding: 4rem 1.5rem;
 }
