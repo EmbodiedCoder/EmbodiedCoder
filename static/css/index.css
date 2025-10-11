@@ -154,6 +154,9 @@ body {
     font-family: 'Inter', sans-serif !important;
     font-weight: 500;
     margin-bottom: 1.5rem;
+    display: flex;            
+    flex-direction: column;   
+    align-items: center;       
 }
 
 .publication-venue {
