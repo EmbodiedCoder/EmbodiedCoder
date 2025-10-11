@@ -101,7 +101,7 @@ body {
 
 .hero.is-small-hero .hero-body {
   padding-top: 1.5rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
 }
 
 .hero-body {
